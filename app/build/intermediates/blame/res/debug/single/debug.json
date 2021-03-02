@@ -60,12 +60,12 @@
         "source": "D:\\Developpement\\Android\\topquiz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Developpement\\Android\\topquiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Developpement\\Android\\topquiz\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "D:\\Developpement\\Android\\topquiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game_logical.xml.flat",
         "source": "D:\\Developpement\\Android\\topquiz\\app\\src\\main\\res\\layout\\activity_game_logical.xml"
+    },
+    {
+        "merged": "D:\\Developpement\\Android\\topquiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Developpement\\Android\\topquiz\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\Developpement\\Android\\topquiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",

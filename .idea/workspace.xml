@@ -21,17 +21,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4530aab-ada0-49ff-8212-0eca159d652b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e4530aab-ada0-49ff-8212-0eca159d652b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +68,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1c7okyiUM9mcXm9rEmved5KLT4w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -191,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614716176599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit before first push">
+      <created>1614718678108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614718678108</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding everything">
+      <created>1614718891950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614718891950</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +214,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit avant deploiement repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit avant deploiement repo" />
+    <MESSAGE value="commit before first push" />
+    <MESSAGE value="adding everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding everything" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1004" y="412" key="#app" timestamp="1614718514565">
@@ -220,10 +227,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="748" y="481" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718263829" />
-    <state x="904" y="182" key="CommitChangelistDialog2" timestamp="1614716174286">
+    <state x="904" y="182" key="CommitChangelistDialog2" timestamp="1614718889887">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="904" y="182" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614716174286" />
+    <state x="904" y="182" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718889887" />
     <state x="494" y="406" width="1601" height="840" key="DiffContextDialog" timestamp="1614718251896">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -248,25 +255,29 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="870" height="283" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718040213" />
-    <state x="868" y="350" key="Vcs.Push.Dialog.v2" timestamp="1614716340083">
+    <state x="868" y="350" key="Vcs.Push.Dialog.v2" timestamp="1614718795717">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="868" y="350" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614716340083" />
+    <state x="868" y="350" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718795717" />
     <state x="494" y="406" width="1601" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1614718573405">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="494" y="406" width="1601" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718573405" />
+    <state x="846" y="675" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614718948551">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="846" y="675" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718948551" />
     <state x="801" y="466" width="1601" height="840" key="git4idea.log.GitShowExternalLogAction" timestamp="1614718251896">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="801" y="466" width="1601" height="840" key="git4idea.log.GitShowExternalLogAction/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718251896" />
-    <state x="980" y="405" key="git4idea.merge.GitPullDialog" timestamp="1614716315775">
+    <state x="980" y="405" key="git4idea.merge.GitPullDialog" timestamp="1614718914298">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="980" y="405" key="git4idea.merge.GitPullDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614716315775" />
-    <state x="1078" y="523" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614716240763">
+    <state x="980" y="405" key="git4idea.merge.GitPullDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718914298" />
+    <state x="1078" y="523" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614718730997">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1078" y="523" key="git4idea.remote.GitConfigureRemotesDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614716240763" />
+    <state x="1078" y="523" key="git4idea.remote.GitConfigureRemotesDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1614718730997" />
   </component>
 </project>

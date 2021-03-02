@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlphaQuiz</string>
+    <string name="better">Allez vous faire mieux cette fois ci ?</string>
+    <string name="chose_theme">Veuillez choisir un thème</string>
+    <string name="correct">Bonne réponse</string>
+    <string name="enter_name">Veuillez entrer votre prénom</string>
+    <string name="go">C\'est parti</string>
+    <string name="go_back">Retour</string>
+    <string name="last_score">"Votre dernier score était "</string>
+    <string name="question">Question</string>
+    <string name="show_score">"Votre score est de "</string>
+    <string name="subject_color">Couleurs</string>
+    <string name="subject_logic">Logique</string>
+    <string name="subject_math">Math</string>
+    <string name="subject_words">Mots</string>
+    <string name="welcome">Bienvenue ! Quel est votre prénom ?</string>
+    <string name="welcome_back">"Heureux de vous revoir "</string>
+    <string name="well_done">Bien joué !</string>
+    <string name="wrong">Mauvaise réponse</string>
+</resources>
